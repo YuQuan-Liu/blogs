@@ -1,4 +1,9 @@
-
+---
+title: "Kafka 常用命令"
+tags:
+  - kafka
+toc: true
+---
 
 ![截图](../img/2020-12-19-kafka-commands-img1.png)
 
